@@ -1,5 +1,5 @@
 # npm-node-starter
-Get Started with Node, Npm and Mocha
+Get Started with node, npm and mocha
 
 * git clone
 * npm i
