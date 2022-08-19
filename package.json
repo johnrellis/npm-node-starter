@@ -8,7 +8,7 @@
     "test:watch": "node_modules/.bin/mocha --watch --recursive test",
     "lint": "./node_modules/.bin/eslint .",
     "lint:fix": "./node_modules/.bin/eslint . --fix",
-    "report": "nyc report --reporter=lcov"  
+    "report": "nyc report --reporter=lcov"
   },
   "repository": {
     "type": "git",
@@ -21,11 +21,11 @@
   },
   "homepage": "https://github.com/johnrellis/npm-node-starter#readme",
   "devDependencies": {
-    "mocha": "^8.1.1",
-    "eslint": "^5.3.0",
-    "eslint-config-airbnb-base": "^13.0.0",
-    "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-mocha": "^5.1.0",
-    "nyc": "^14.1.1"
+    "eslint": "^8.19.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-mocha": "^9.0.0",
+    "mocha": "^10.0.0",
+    "nyc": "^15.1.0"
   }
 }
